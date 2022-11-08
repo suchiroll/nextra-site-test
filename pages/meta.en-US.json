@@ -1,22 +1,11 @@
 {
-  "index": {
-    "title": "Introduction",
-    "type": "page",
-    "hidden": true
-  },
-  "docs": {
-    "title": "Docs",
+	
+  "fideslang": {
+    "title": "Fides Lang",
     "type": "page"
   },
-  "examples": {
-    "title": "Examples",
+  "enterprise": {
+    "title": "Enterprise",
     "type": "page"
-  },
-  "blog": {
-    "title": "Blog",
-    "type": "page",
-    "theme": {
-      "sidebar": false
-    }
   }
 }
